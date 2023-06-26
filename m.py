@@ -1,1 +1,1 @@
-print('My first py')
+print('My first app')
